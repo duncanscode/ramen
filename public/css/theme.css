@@ -1,0 +1,17 @@
+html, body, .container-fluid, .row, .map, .content {
+	height:100%;
+	background-color:#17263c;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+	min-height: 100%;
+	background-color: #000000;
+}
+
+.content {
+	background-color: #17263c;
+	color: #d59563;
+}
+	
